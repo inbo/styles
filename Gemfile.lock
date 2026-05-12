@@ -20,8 +20,8 @@ GIT
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.8.0)
-      public_suffix (>= 2.0.2, < 5.0)
+    addressable (2.9.0)
+      public_suffix (>= 2.0.2, < 8.0)
     citeproc (1.0.10)
       namae (~> 1.0)
     citeproc-ruby (1.1.14)
@@ -72,7 +72,7 @@ GEM
       faraday (>= 0.9)
       sawyer (~> 0.8.0, >= 0.5.3)
     ostruct (0.4.0)
-    public_suffix (4.0.6)
+    public_suffix (6.0.2)
     racc (1.5.2)
     rake (13.0.6)
     reverse_markdown (2.0.0)
